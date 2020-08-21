@@ -1,0 +1,14 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  background-color: lightcyan;
+  }
+.dialogs_items {
+  padding: 15px;
+}
+.messages {
+  padding: 15px;
+}
+.dialog:hover {
+  background: #888;
+}

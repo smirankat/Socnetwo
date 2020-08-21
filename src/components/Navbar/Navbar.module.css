@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #666;
+    overflow: hidden;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
+  ul {
+    list-style-type: none;
+  }
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+  }
+  li a.active {
+    color: gold;
+  }
+  li a:hover {
+    background-color: #333;
+  }

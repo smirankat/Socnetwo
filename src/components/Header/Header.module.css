@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+  }
+  .header img {
+    width: 12vw;
+  }
+  .login {
+    color: #26B2AA;
+    font-size: 18px;
+    padding: 0 15px;
+    margin: 5px;
+    cursor: pointer;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+    background: #ddd;
+  }

@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+a, img {
+  display: block;
+}
+a {
+  text-decoration: none;
+}
+.app_wrapper {
+  /* max-width: 1200px; */
+}
+.app_wrapper_content {
+  background-color: lightblue;
+}
+
